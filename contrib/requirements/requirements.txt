@@ -1,5 +1,5 @@
 pyaes>=0.1a1
-python-ecdsa==0.13
+python-ecdsa
 pbkdf2
 requests
 qrcode
